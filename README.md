@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Dagar</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<img align="right" width="400px" src="https://github.com/user-attachments/assets/833b21b8-c299-40b1-ae23-3ada1280371f" alt="coding">
+<img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2Y2NyazN1azF4MDhneHBqc2JvdHp4bzdqazllZ2Fsd2NpcTN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m0Z1LPu6flQDS/giphy.webp" alt="coding">
 
 
 
