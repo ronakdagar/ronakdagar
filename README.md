@@ -19,6 +19,7 @@
 - 💬 Ask me about :-Anything..
 - 📫 How to reach me: @dagarronak1228@gmail.com
 - 🤳 I vlog and clicks a lot is the habit i likes the most
+- 
 -⚡ Fun fact: I spend almost most of the time with nature every day.
 
 
