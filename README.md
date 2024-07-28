@@ -18,12 +18,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about :-Anything..
 - 📫 How to reach me: @dagarronak1228@gmail.com
-- 😄 Pronouns: She/her
 - 🤳 I vlog and clicks a lot is the habit i likes the most
 -⚡ Fun fact: I spend almost most of the time with nature every day.
 
 
-- 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakdagar&label=Profile%20views&color=0e75b6&style=flat" alt="ronakdagar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
