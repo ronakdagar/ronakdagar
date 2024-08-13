@@ -10,7 +10,10 @@
 <img align="right" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2Y2NyazN1azF4MDhneHBqc2JvdHp4bzdqazllZ2Fsd2NpcTN4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m0Z1LPu6flQDS/giphy.webp" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakdagar&label=Profile%20views&color=0e75b6&style=flat" alt="ronakdagar" /> </p>
+<br>
 
+- 📫 How to reach me **dagarronak1203@gmail.com**
+ </br>
 
 - 🔭 I’m currently working on .. Desing to Code is the Game I love the most
 - 🌱 I’m currently learning more about AI.
