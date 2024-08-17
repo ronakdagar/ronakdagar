@@ -27,11 +27,7 @@
   
 
 
-## 💻 Tech Stack
-<img src="https://img.shields.io/badge/java-%234F4F4F.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E" alt="Java"/>
-
-
-
+## 💻 Tech Stack & Tools
 ![C](https://img.shields.io/badge/c-%2300f.svg?style=for-the-badge&logo=&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%23239120.svg?style=for-the-badge&logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -51,6 +47,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+**Git**
+```markdown
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![FINAL](https://user-images.githubusercontent.com/69046800/203518638-0341aba9-c8c4-45fd-87c3-b79daa834aff.png) 
 ![c](https://user-images.githubusercontent.com/69046800/203519042-efaacc88-7cd5-4c77-8d7f-d876d50ce6fa.png)
