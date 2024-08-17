@@ -43,16 +43,6 @@
 ![express](https://user-images.githubusercontent.com/69046800/203523731-949b299c-39d0-4dcb-a8df-dce8637ac254.png)
 
 
-![FINAL](https://user-images.githubusercontent.com/69046800/203518638-0341aba9-c8c4-45fd-87c3-b79daa834aff.png) 
-![c](https://user-images.githubusercontent.com/69046800/203519042-efaacc88-7cd5-4c77-8d7f-d876d50ce6fa.png)
-![JAVA](https://user-images.githubusercontent.com/69046800/203524696-24de23d1-c3ba-44e0-9e77-09efc6198e2d.png)
-![HTML](https://user-images.githubusercontent.com/69046800/203523158-4d11e4fa-3f35-4d51-af22-d4ca0c7581eb.png)
-![CSS](https://user-images.githubusercontent.com/69046800/203523185-9dd9c124-7da7-4498-b693-aa462bba7b36.png)
-![javascript](https://user-images.githubusercontent.com/69046800/203524298-1d81624c-84f2-49f6-b6b3-b8d6d29268df.png)
-![python](https://user-images.githubusercontent.com/69046800/203527036-1e0b266e-d1fb-4969-9ec7-1b9187d1d158.png)
-![node](https://user-images.githubusercontent.com/69046800/203523721-aa3e4887-18d0-4840-a672-c188af3dcb76.png)
-![express](https://user-images.githubusercontent.com/69046800/203523731-949b299c-39d0-4dcb-a8df-dce8637ac254.png)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronakdagar&show_icons=true&locale=en&layout=compact" alt="ronakdagar" /></p>
 
